@@ -91,7 +91,7 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   font-size: 20px;
-  color: #fff;
+  color: #2F4F4F;
   cursor: pointer;
   transition: all 0.3 ease;
 }
